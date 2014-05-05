@@ -6,7 +6,7 @@ import (
 	"os"
 )
 
-const VERSION = "0.2.0pre"
+const VERSION = "0.2.0"
 
 func main() {
 	var opts struct {
