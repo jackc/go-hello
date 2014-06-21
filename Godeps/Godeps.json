@@ -1,5 +1,5 @@
 {
-	"ImportPath": "github.com/JackC/go-hello",
+	"ImportPath": "github.com/jackc/go-hello",
 	"GoVersion": "go1.2.1",
 	"Deps": [
 		{
